@@ -125,14 +125,14 @@ iframe {
 }
 
 /*/////// MEDIA ////////*/
-/*
+
 img, video, audio, iframe, table, form {
   width: 100%; /* IE */
-  max-width: 100%; /* FF, Safari, Chrome */
-}*/
+  /*max-width: 100%; /* FF, Safari, Chrome */
+}
 
 /*////////// FIXES //////////*/
-/*
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -152,10 +152,10 @@ img, video, audio, iframe, table, form {
   clear:both;
 }
 
-/*/////// LAYOUT ////////*/
+/////// LAYOUT ////////
 
 .wrapper {
-  width: 960px;
+  width: 90%;
   margin: 0 auto;
 }
 
