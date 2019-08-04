@@ -168,6 +168,11 @@ img, video, audio, iframe, table, form {
   }
 }
 
+@media only screen and (max-width: 1108px) {
+  .wrapper { width: 90%; }
+}
+
+
 .col-1 {
   float: left;
   width: 32%;
