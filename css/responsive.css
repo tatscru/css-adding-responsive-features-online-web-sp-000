@@ -51,11 +51,13 @@
     top: 82px;
     right: 4px;
   }
+
+
 }
 
 /*Tablet sizing aka breakpoint*/
 
-@media only screen and (min-width: 900px) {
+@media only screen and (max-width: 900px) {
   .wrapper {
     width: 90%;
    }
