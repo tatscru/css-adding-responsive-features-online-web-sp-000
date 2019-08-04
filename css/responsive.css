@@ -159,7 +159,7 @@ phone sizes
   margin: 0 auto;
 }
 
-@media only screen and (max-width: 1108px) {
+@media only screen and (min-width: 1108px) {
   .wrapper { width: 90%; }
   #social {
     position: absolute;
