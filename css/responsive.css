@@ -42,7 +42,9 @@
 
 
 @media only screen and (max-width: 1108px) {
-  .wrapper { width: 90%; }
+  .wrapper {
+    width: 90%;
+  }
   #social {
     position: absolute;
     width: auto;
