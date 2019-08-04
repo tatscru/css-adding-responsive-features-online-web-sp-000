@@ -169,9 +169,19 @@ img, video, audio, iframe, table, form {
 }
 
 @media only screen and (max-width: 900px) {
-  .wrapper { width: 90%; }
-  body {font-size: 85%}
-  #logo
+  .wrapper {
+    width: 90%;
+   }
+  body {
+    font-size: 85%;
+  }
+  #logo h1 {
+    height: 35px;
+    weight: 35px;
+  }
+  #logo h2 {
+    font-size: 2.2em;
+  }
 }
 
 
