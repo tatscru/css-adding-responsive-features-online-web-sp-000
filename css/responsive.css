@@ -170,6 +170,7 @@ img, video, audio, iframe, table, form {
 
 @media only screen and (max-width: 900px) {
   .wrapper { width: 90%; }
+  body {font-size: 85%}
 }
 
 
