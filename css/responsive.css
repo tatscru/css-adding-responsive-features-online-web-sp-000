@@ -1,4 +1,4 @@
-/*body {
+body {
   font-size: 100%;
 }
 
@@ -16,7 +16,7 @@ li {
 
 p, address {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
-  /*line-height: 1.5em;
+  line-height: 1.5em;
 }
 
 figure {
@@ -96,11 +96,11 @@ iframe {
 }
 
 
-/*////////// BACKGROUNDS //////////*/
-/*.white-wood {
+/*///////// BACKGROUNDS ////////*/
+.white-wood {
   background: url(../images/white-wood.jpg) no-repeat center top;
   background-size: cover;
-}*/
+}
 
 .light-fade {
   background: #efefef; /* Old browsers */
@@ -127,7 +127,7 @@ iframe {
 
 img, video, audio, iframe, table, form {
   width: 100%; /* IE */
-  /*max-width: 100%; /* FF, Safari, Chrome */
+  max-width: 100%; /* FF, Safari, Chrome */
 }
 
 /*////////// FIXES //////////*/
