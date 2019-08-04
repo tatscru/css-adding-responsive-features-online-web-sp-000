@@ -163,7 +163,9 @@ img, video, audio, iframe, table, form {
   .wrapper { width: 90%; }
   #social {
     position: absolute;
-    
+    width: auto;
+    top: 82px;
+    right: 4px;
   }
 }
 
