@@ -194,7 +194,7 @@ img, video, audio, iframe, table, form {
 #social {
   position: absolute;
   top: 82px;
-  right: 20px;
+  right: 4px;
   width: auto;
   z-index: 2;
 }
