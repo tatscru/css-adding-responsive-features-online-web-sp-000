@@ -281,7 +281,7 @@ header {
 
 /*////////// LOGO //////////*/
 
-/*#logo {
+#logo {
   padding: 74px 0 0;
 }
 
@@ -316,7 +316,7 @@ section {
 }*/
 
 /*////////// DETAILS //////////*/
-/*
+
 #details {
   border-top: 1px solid white;
 }
@@ -337,14 +337,14 @@ section {
 
 #details a:active {
   color: red;
-}*/*/
+}
 
 /*////////// FOOTER //////////*/
 
-/*footer {
+footer {
   text-align: center;
   font-size: 0.75em;
   padding: 10px;
   background: #eee;
   border-top: 1px solid;
-}*/*/*/
+}
