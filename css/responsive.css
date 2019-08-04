@@ -2,6 +2,11 @@
 
 
 /*/////// LAYOUT ////////*/
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
 .col-1 {
   float: left;
   width: 32%;
@@ -34,10 +39,7 @@
 
 
 /*phone sizes*/
-.wrapper {
-  width: 960px;
-  margin: 0 auto;
-}
+
 
 @media only screen and (min-width: 1108px) {
   .wrapper { width: 90%; }
