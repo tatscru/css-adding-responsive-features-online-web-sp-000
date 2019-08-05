@@ -84,3 +84,7 @@
   /*#navbar nav a.menu-icon {
     display: active;
   }*/
+
+  #logo h2 {
+   visibility: hidden;
+ }
